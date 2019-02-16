@@ -1,0 +1,19 @@
+.Hero__card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Hero__actions {
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+}
+
+.icon-user-plus,
+.icon-bin,
+.icon-info {
+  width: 1.5em;
+  height: 1.5em;
+  fill: #424242;
+}

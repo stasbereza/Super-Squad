@@ -1,0 +1,15 @@
+.App {
+  width: 1360px;
+  margin: auto;
+  padding: 0 10px;
+}
+.App__message {
+  padding: 8px;
+  padding-top: 16px;
+  color: #f00;
+  text-align: center;
+}
+.Main {
+  display: flex;
+  justify-content: space-between;
+}

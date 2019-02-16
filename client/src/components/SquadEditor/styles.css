@@ -1,0 +1,25 @@
+.SquadEditor {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.SquadEditor__button_actions {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+  fill: #fff;
+}
+
+.SquadEditor__statsBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  margin: 8px 0;
+}

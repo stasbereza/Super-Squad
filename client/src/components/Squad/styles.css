@@ -1,0 +1,17 @@
+.Squad__card_icon-btn {
+  align-self: flex-end;
+}
+
+.Squad__card_info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Squad__card_infoHeading {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.Squad__card_heroesList {
+  list-style: none;
+}

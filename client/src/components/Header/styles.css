@@ -1,0 +1,13 @@
+.Header {
+  padding: 24px 0;
+  margin-bottom: 20px;
+  text-align: center;
+  border-bottom: 4px solid #424242;
+}
+
+.Header h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #424242;
+  text-transform: capitalize;
+}

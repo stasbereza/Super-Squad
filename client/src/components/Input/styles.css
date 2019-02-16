@@ -1,0 +1,18 @@
+.Input {
+  display: inline-flex;
+  flex-grow: 1;
+  padding: 4px;
+  font-size: 16px;
+  border: none;
+  border-bottom: 1px solid #636363;
+  outline: 0;
+}
+
+.Input::placeholder {
+  font-weight: 400;
+  color: #636363;
+}
+
+.Input:focus {
+  border-color: #424242;
+}

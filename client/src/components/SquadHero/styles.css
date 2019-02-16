@@ -1,0 +1,18 @@
+.SquadHero__card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.SquadHero__actions {
+  display: flex;
+  justify-content: space-between;
+  width: 70px;
+}
+
+.icon-bin,
+.icon-info {
+  width: 1.5em;
+  height: 1.5em;
+  fill: #424242;
+}
